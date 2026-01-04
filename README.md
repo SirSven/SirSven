@@ -1,6 +1,6 @@
 - Uriel Romero
 - 
-- Computer Egineer 
+- Software Engineer 
 - 
 - MX
 
